@@ -11,6 +11,9 @@
     font-family: poppins, sans-serif;
     
 }
+body{
+    height: 0px !important;
+}
 .container{
     overflow-x: clip;
     height: 100vh;
